@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+/* font-family: font-family: 'Borel', cursive; */
+.mainleft h3{
+    margin-top: 10px;
+    font-size: 22px;
+    letter-spacing: 2px;
+    padding-left: 30px;
+    color: rgb(241, 217, 217);
+}
+.mainright a{
+    text-decoration: none;
+    color: rgb(248, 230, 230);
+    font-size: 20px;
+    margin-top: 55px;
+    margin-right: 75px;
+}
+.mainright{
+    padding-top: 14px;
+}
+.mainright a:hover{
+    color: white;
+    border-bottom: 2px solid rgb(243, 243, 178);
+}
+.mainright span{
+    background-color: rgb(243, 243, 178);
+    color: black;
+    padding: 4px 15px;
+    border-radius: 6px;
+}
+.container-fluid{
+    background-color: rgb(27, 25, 25);
+    height: 60px;
+    position: sticky;
+    top: 0;
+}
+.back{
+    background-image: url(../images/coffee-latte-with-cookies-coffiee-beans.jpg);
+    height: 590px;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.nmain {
+    text-align: end;
+    padding-right: 50px;
+    margin-right: 10px;
+    padding-top: 150px;
+    color: white;
+}
+.nmain a {
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+.nmain a:hover {
+    background-color: rgb(48, 43, 43);
+    color: white;
+}
+.nmain{
+    text-align: center;
+    /* background-color: red; */
+    padding-left: 880px;
+}
+.hmain{
+     font-size: 50px;
+     letter-spacing: 5px;
+     font-family: 'Open Sans', sans-serif;
+}
+.smain{
+    padding-top: 20px;
+    letter-spacing: 3px;
+    font-size: 36px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.pmain p{
+    margin-top: 30px;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.btn{
+    margin-top: 13px;
+    letter-spacing: 2px;
+    
+}
+.btn a{
+    padding: 10px 20px;
+    font-size: 15px;
+}
+.fhead{
+    text-align: center;
+    padding-top: 40px;
+    
+}
+
+.fhead h2{
+    color:rgb(24, 22, 22);
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 20px;
+}
+.fhead p{
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+
+}
+.foot{
+    background-color: rgb(243, 243, 178);
+    height: 320px;
+    display: flex;
+
+}
+.series img{
+    width: 333px;
+    height: 270px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 100px;
+
+}
+.series p{
+ margin-left: 130px;
+}
+.know{
+    margin-top: 50px;
+}
+.know a{
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.know a:hover{
+    color: orangered;
+}
+.greenm{
+    background-color: rgb(24, 18, 18);
+    height: 320px;
+}
+.green{
+    /* background-color: rgb(24, 18, 18);
+    height: 700px; */
+    /* margin-top: 20px; */
+    display: flex;
+}
+.greeni img{
+    width: 140px;
+    /* padding: 40px; */
+    margin-top: 60px;
+    border-radius: 19px;
+    margin-right: 120px;
+    margin-left: 80px;
+    /* margin-bottom: 0 !important ; */
+}
+.maingreen{
+    color: white;
+    font-size: 20px;
+    margin-top: 50px;
+    padding-left: 80px;
+ 
+}
+.maingreen a:hover{
+    color: white;
+}
+.maingreen a{
+    text-decoration: none;
+    color: white;
+    padding-top: 30px;
+    font-size: 13px;
+}
+.maingreen i{
+    gap: 25px;
+    margin-left: 20px;
+}
+.maingreen a i{
+    color: white;
+}
+.border{
+    border-bottom: 1px solid white;
+    width: 90%;
+  margin: auto;
+  margin-top: 20px;
+}
+.lastparab{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    
+}
+.lastparab p{
+    /* margin-left: 100px; */
+    margin-top: 20px;
+    color: white;
+}
+.partsection h3{
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'EB Garamond', serif;
+    font-size: 40px;
+    
+
+    
+
+}
+.partsectionsub{
+    text-align: center;
+    margin-top: 80px;
+    font-family: 'EB Garamond', serif;
+}
+.partsectionsub p{
+    margin-top: 60px;
+    letter-spacing: 1px;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+
+}
+.cards{
+    text-align: center;
+    margin-bottom: 100px;
+    box-shadow: -2px 3px 19px 4px rgba(242,239,242,1);
+    gap: 25px;
+}
